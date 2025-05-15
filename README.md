@@ -16,7 +16,7 @@ A command-line unit conversion tool written in Rust that allows users to convert
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/unit-converter.git
+   git clone https://github.com/izhan0102/unit-converter.git
    cd unit-converter
    ```
 
